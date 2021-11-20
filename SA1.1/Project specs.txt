@@ -1,0 +1,16 @@
+StandAlone 1.5
+mC Arduino uno rev3
+body rc rock crawler
+using buit in h bridg setup for drive and steering.
+
+
+
+lib include:
+TvOut.h - diagnostics and genaral data.
+psx2arduin.h - in fuild training.
+Servo.h
+spi.h
+
+
+
+7xAA@2200mAh*2=8.4v@4.4Ah
